@@ -1,8 +1,5 @@
 title: Paulo Souza Junior
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Ph.D. Student and Early Stage Researcher participating in the EU project named FogGuru. Currently working with Application resource management techniques over Fog environments.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
@@ -11,12 +8,12 @@ blog_theme: light # Or use dark
 # Profile information
 name: Paulo Souza Junior
 tagline: Ph.D. Student at Université de Rennes 1
-about-description: # Add Discription
+about-description: Ph.D. Student and Early Stage Researcher participating in the <a href="http://fogguru.eu">FogGuru</a> project. 
+                   Currently working with Application resource management techniques over Fog environments. # Add Discription
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: parodrig@irisa.fr # Add your Email address
-phone:  +33 0782723978 # Add your Phone number
 website: paulosouzajr.github.io # Add your website, do not add http://
 linkedin: paulo-souza-junior #Add your Linkedin handle
 github: paulosouzajr # Add your Github handle
